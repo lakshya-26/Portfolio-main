@@ -1,9 +1,6 @@
 <div align="center">
 
-# Crimson Personal Portfolio Template. Landing page | Crimson
+# Lakshya Personal Portfolio page 
 
-<img src="admin/base.png">
-
-### by <a href="https://github.com/python019">SUBUX</a>
 
 </div># Portfolio-main
